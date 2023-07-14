@@ -4,6 +4,7 @@
     'version': '16.1',
     'author': 'Demsa Industrial',
     'website': '',
+    'license': 'LGPL-3',
     'depends': [
         'account_accountant',
 
