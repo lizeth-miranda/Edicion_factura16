@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Edicion_facturav16',
-    'version': '16.1',
+    'version': '16.2',
     'license': 'AGPL-3',
     'author': 'Demsa Industrial',
     'website': '',
