@@ -2,6 +2,7 @@
 {
     'name': 'Edicion_facturav16',
     'version': '16.1',
+    'license': 'AGPL-3',
     'author': 'Demsa Industrial',
     'website': '',
     'depends': [
